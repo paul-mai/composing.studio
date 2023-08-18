@@ -1,6 +1,6 @@
 # composing.studio
 
-This is the code for [composing.studio](https://composing.studio/), a web
+This is the code for [composing.studio](https://composing.studio/), a wonderful web
 application that aims to make music composition collaborative and accessible to
 everyone.
 
